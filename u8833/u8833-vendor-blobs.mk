@@ -36,7 +36,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8833/proprietary/bin/port-bridge:system/bin/port-bridge \
     vendor/huawei/u8833/proprietary/bin/qmiproxy:system/bin/qmiproxy \
     vendor/huawei/u8833/proprietary/bin/qmuxd:system/bin/qmuxd \
-    vendor/huawei/u8833/proprietary/bin/qosmgr:system/bin/qosmgr \
     vendor/huawei/u8833/proprietary/bin/rild:system/bin/rild \
     vendor/huawei/u8833/proprietary/bin/rmt_oeminfo:system/bin/rmt_oeminfo \
     vendor/huawei/u8833/proprietary/bin/rmt_storage:system/bin/rmt_storage \
